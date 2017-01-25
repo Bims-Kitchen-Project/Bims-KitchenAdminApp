@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update_menu">UpdateMenu</string>
+    <string-array name="food_cat">
+        <item>Select</item>
+        <item>Veg</item>
+        <item>Nonveg</item>
+        <item>Bev</item>
+    </string-array>
+    <string name="title_activity_track">Map</string>
+
+</resources>
