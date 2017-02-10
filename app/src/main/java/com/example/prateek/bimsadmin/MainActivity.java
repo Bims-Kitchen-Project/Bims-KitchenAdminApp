@@ -51,6 +51,11 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, UpdateMenu.class);
         startActivity(intent);
     }
+
+    public void goToMenu(View view) {
+        Intent intent1 = new Intent(this, MenuPage.class);
+        startActivity(intent1);
+    }
 //    public void goTodelivery(View view) {
 //        Intent intent2 = new Intent(this, deliveryboy.class);
 //        startActivity(intent2);

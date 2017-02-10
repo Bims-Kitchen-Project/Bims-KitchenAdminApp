@@ -49,7 +49,7 @@
 
         <Button
             android:layout_width="400dp"
-            android:layout_height="50dp"
+            android:layout_height="30dp"
             android:id="@+id/badmin"
             android:text="Update Menu"
             android:onClick="goToAdmin"
@@ -60,8 +60,27 @@
             android:textColor="#ffffff"
 
             />
-        <ImageView
+        <Button
             android:layout_width="400dp"
+            android:layout_height="30dp"
+            android:id="@+id/bview"
+            android:layout_below="@+id/badmin"
+            android:text="View Menu"
+            android:layout_marginTop="15dp"
+
+            android:onClick="goToMenu"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:background="#8C0"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+
+            />
+        <ImageView
+
+            android:layout_below="@+id/bview"
+            android:layout_width="400dp"
+            android:id="@+id/bottomImg"
             android:layout_height="wrap_content"
             android:src="@drawable/menu"
             android:foregroundGravity="center"

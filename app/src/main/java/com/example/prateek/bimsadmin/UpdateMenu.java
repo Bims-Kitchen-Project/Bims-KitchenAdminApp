@@ -35,7 +35,7 @@ public class UpdateMenu extends AppCompatActivity {
     final int RESULT_LOAD_IMAGE = 1;
     Firebase ref;
     String path;
-    private final String URL = "https://bims-kitchenapp.firebaseio.com/";
+    private final String URL = "https://bimsapp-81da4.firebaseio.com/";
     ImageView imageView;
     Button btnImage,btnUpdate;
     Spinner spinner;
@@ -80,7 +80,7 @@ public class UpdateMenu extends AppCompatActivity {
         Firebase.setAndroidContext(this);
 
 
-        ref = new Firebase("https://bims-kitchenapp.firebaseio.com/");
+        ref = new Firebase("https://bimsapp-81da4.firebaseio.com/");
         data = new Data();
 
 
