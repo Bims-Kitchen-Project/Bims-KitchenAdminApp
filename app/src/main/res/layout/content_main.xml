@@ -25,8 +25,7 @@
         >
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:layout_marginTop="30dp"
+            android:layout_height="300dp"
             android:id="@+id/iv1"
             android:src="@drawable/bims"/>
         <!--<ImageView-->
@@ -48,8 +47,8 @@
         android:id="@+id/linearLayout2">
 
         <Button
-            android:layout_width="400dp"
-            android:layout_height="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:id="@+id/badmin"
             android:text="Update Menu"
             android:onClick="goToAdmin"
@@ -61,30 +60,19 @@
 
             />
         <Button
-            android:layout_width="400dp"
-            android:layout_height="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:id="@+id/bview"
             android:layout_below="@+id/badmin"
             android:text="View Menu"
             android:layout_marginTop="15dp"
-
             android:onClick="goToMenu"
             android:textAlignment="center"
             android:gravity="center"
-            android:background="#8C0"
+            android:background="#8C001A"
             android:textSize="20dp"
             android:textColor="#ffffff"
 
-            />
-        <ImageView
-
-            android:layout_below="@+id/bview"
-            android:layout_width="400dp"
-            android:id="@+id/bottomImg"
-            android:layout_height="wrap_content"
-            android:src="@drawable/menu"
-            android:foregroundGravity="center"
-            android:layout_marginTop="8dp"
             />
     </RelativeLayout>
 
