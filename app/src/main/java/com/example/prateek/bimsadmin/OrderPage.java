@@ -16,6 +16,7 @@ import com.firebase.client.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class OrderPage extends AppCompatActivity {
     private List<Order>  orderList = new ArrayList<>();
@@ -33,7 +34,7 @@ public class OrderPage extends AppCompatActivity {
         Firebase.setAndroidContext(this);
 
         ref = new Firebase(Server.URL);
-        getNonVegMenu();
+        getOrder();
 
         recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         mAdapter = new OrderAdapter(orderList);
@@ -57,7 +58,7 @@ public class OrderPage extends AppCompatActivity {
 
     Firebase ref;
 
-    private void getNonVegMenu(){
+    private void getOrder(){
         //final Food food = new Food(null, null);
         Firebase objRef = ref.child("Order");
         objRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -66,10 +67,17 @@ public class OrderPage extends AppCompatActivity {
                 for (DataSnapshot snapshot: tasksSnapshot.getChildren()) {
                     Object value = snapshot.child("name").getValue();
                     Object valueF = snapshot.child("number").getValue();
+                    Object valueA = snapshot.child("amount").getValue();
+                    Object valueAd = snapshot.child("address").getValue();
+                    Object valueM = snapshot.child("mail").getValue();
+
 
                     Order order = new Order();
                     order.setName(value.toString());
                     order.setNumber(valueF.toString());
+                    order.setAmount(valueA.toString());
+                    order.setAddress(valueAd.toString());
+                    order.setMail(valueM.toString());
 
 
                     orderList.add(order);

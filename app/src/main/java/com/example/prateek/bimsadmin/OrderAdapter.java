@@ -18,13 +18,16 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.MyViewHolder
     private List<Order> orderList;
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
-        public TextView name, number;
+        public TextView name, number,email,amount,address;
 
 
         public MyViewHolder(View view) {
             super(view);
             name = (TextView) view.findViewById(R.id.Oname);
             number = (TextView) view.findViewById(R.id.Onumber);
+            email = (TextView)view.findViewById(R.id.Oemail);
+            amount  =(TextView)view.findViewById(R.id.Oamount);
+            address  =(TextView)view.findViewById(R.id.Oaddress);
 
         }
     }
@@ -48,6 +51,9 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.MyViewHolder
         Order order = orderList.get(position);
         holder.name.setText(order.getName());
         holder.number.setText(order.getNumber());
+        holder.email.setText(order.getMail());
+        holder.amount.setText(order.getAmount());
+        holder.address.setText(order.getAddress());
 
     }
 
