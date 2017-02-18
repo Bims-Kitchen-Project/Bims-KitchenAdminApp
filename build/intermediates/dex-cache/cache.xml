@@ -3,354 +3,336 @@
 
     <item
         is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_ef4b7376ff90e80b08790ed611701f2956573c8f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_6e2d941d982eacb1f5c99679f19a5ebc0f4aec8c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11_070ce8ae37267f4d3623862605126f798fe4d163.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d557a58315a546b93f282ebcab8021609da4994b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.koushikdutta.async-androidasync-2.1.9_4c87e0ebc82274f42f56b2d9f099cebaf9e74ccc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_6d98309542d1707fbbd83362318a71f568bac73c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_2cdd22714499aea66e5138e33003fae8a9b9bab0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7c7503bcad0dfa3bd485229a2e0a5e83bfbff06c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_3a45bb837739b4a602dbec0056f7faf8f773ef88.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_5484f1408822d7f9db62f9181dbda96992160070.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_febf211fd5f9c00e8b52fa12a254384bca391d23.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_50803a119caa17ba95be609b475936c34e6807b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_2ae32d0576a2a06db27161d268b7cda5e94f6aaf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_f4754fb327f3aeb3dbfbf79f8b35c2e1f64bd4e1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_7a84251105d22da43bcc0b560f72997185affde6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1_325fea5df0645ea5890a353f6d8335d96820ace1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f3184e705b0a2b9fbcb3fd205ccc365dd06c6324">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/instant-run_00a1858597f8c62328fa66a16c701bb273b9e984.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_74929ba5798be4a1a34824daf4c313f14cbf7426.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_92317234091056b0c3508c3fbe02fa2ef2448b91.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_9f9e55bccdd792f2e2912ed348ff2f54bb46bdb2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_38de37dece783e6fb13caf9024d61d5b4ebeec43.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_43ab6de41353afe529a452d636896a253efadba9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8825a8d28c223bf81b9cdd34848b9fa7a21a7458.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_fef6598487c2630fd95d6669b05e305d687ea2a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/gson-2.3_282f2342dd425cd164828450b1f0b235b1ef9493.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_e81b8efdd909a4874897f18acf284d0b0a1b6340.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cf47af8e5ebecb9b41981a20bedd866c608f58b2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f6bd099c358a01c453d6fc93730435d3ff751242.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_54c80cf4353a11eab286acff2824c8e267b89cf7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.koushikdutta.ion-ion-2.1.9_6c347aeb1b2ac047afbe48a6953232d800357d3f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d684540cffa98952520b481d98341c363cf5ec8b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0_131a5e1eb2c313fcf6ddc21e2b58ce7aea2444bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c02662cc200ee25b4f0781a905ea338394e87233.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_13a6131468989bcca82dc742ea1a191a9bbe6387.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_c41d4b346b3449df0c6ed5aea99431934e8c6f39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
-        jumboMode="true"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1_bb0c92c5ec2cceb2040bea11ab450dcf372ebbb8.jar" />
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1_6a65498d4a3eff8267d5227c930bbdc2675119dd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_94b6ea9110ed5ee9ae2ff456dfc7b5dd0db34d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ada3bc6e59b23fd41d6ef0f48eb0fcec5f0bd621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_e5b2e25220837eef5cecf6cf764b7052c089dcd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_145d3566e846ebc04b579ec795b6fa3196121758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_fe4bf6f2f48039980c81b498d8ea90d9174a620c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_4e582c5da45af1bddc55acc54a1ff43590384173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_348d78f8d2bc39a720f8f2fec45e875f2ea375e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_31673ab36cabe6e947eb989f4adaf9e1c9411668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5112461e7ec6de0e934c5ea9f57103962844f285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_dfceb1e10f16e3b5b82aa09ac0318f1d606417a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_3ffdebd4e6cbb920ea6e9e50411daf170eb0e081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c8127b1d5c6e32771addc9d1a4e7634530c966a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_c4cc8ec2014ae735a34b9ebff25ce416aa701f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f6b957f632056d22731eee789ae4de495834223b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0c90f22dc808ea204b406cfb95b30c8dfd79a865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_2bda7d236a3f6a43ab1eeba616d67dbefba387ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\gson-2.3_516ac8b57ba2d3f736903d1dff5f95335a7e4138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ded76147f98bcff50b30ead3deffcaa590b3092d.jar" />
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_3e671881319c87b7c8112220a24d9958fc76eec9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.3.1_e474bb504d2275d3354023e80f6c4537f11a6920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.1.9_3405cc469b7f220f2a179aae395172ce6c8e8001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_5f9541df6ae82d6569f480ade611f09f0ab93a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_f94f27dc7896ed6017e2885ebbc5cf93290529e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e06add1fcd60e07b367a36687e57e8dbcca8356b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Software\Programming\Android\sdk\androidSdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ca16733aaa56a76cba21e77f1e4ee133e2e1f672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_36959acb64d5580f70d6b904d0ccfc5dc2a637dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_626b786ce715a8b54caf9e9b601679f3fc2666a8.jar" />
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_d1ddb143ac28433d1666361d2ac42f0a4833af8a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="648bcc13fd222abb52c9e3cb8740ea28a58974e1">
-        <dex dex="/home/ravi/Desktop/project/Bims-KitchenAdminApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_59c5b62c8b72cc9966ce5c471651c13c7fa218b7.jar" />
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_de855696b4223fc9eef75e0ce5087c847b2e3ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_9a228208871ec75629446708a1877c5450a8b45d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e5d2db9e90e0155664c319c7dd73ffd2135e0604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_f5d610d36dd67ce934b6fe3a57037d936b1fcfb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.1.9_6dec32d43b1668df877cd5450705389270e9e856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_7e23fbf97494c99d6f735ff0fc43134509739368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_70a05001a31d24c9584ec9a9049b0d690b397a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_3d0cfd34b6b05d4621ef40a7dc7ecb62c67a8320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_b42b4c203f7ddbea883a954eabe3574f08f9ae5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\AndroidStudioProjects\Bims-KitchenAdminApp\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_dcab774ce7b96872d745d018385271221167dd9e.jar" />
     </item>
 
 </items>

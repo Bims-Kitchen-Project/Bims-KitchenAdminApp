@@ -74,6 +74,22 @@
             android:textColor="#ffffff"
 
             />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/border"
+            android:layout_below="@+id/bview"
+            android:text="View Order"
+            android:layout_marginTop="15dp"
+            android:onClick="goToOrder"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:background="#8C001A"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+
+            />
     </RelativeLayout>
 
 
