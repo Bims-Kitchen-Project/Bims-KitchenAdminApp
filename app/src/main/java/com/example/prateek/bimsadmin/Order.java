@@ -1,12 +1,23 @@
 package com.example.prateek.bimsadmin;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 /**
  * Created by RajeevPC on 2/18/2017.
  */
 
 public class Order {
 
-    private String address, amount, name, number, mail,coordinates;
+
+
+    private String address, amount, name, number, mail, coordinates;
+    public Object items;
+//    private List<Food> item;
 
     public Order(String address, String name, String amount, String number, String mail, String coordinates) {
         this.address = address;
@@ -16,6 +27,7 @@ public class Order {
         this.mail = mail;
         this.coordinates = coordinates;
     }
+
 
     public Order() {
     }
@@ -67,4 +79,61 @@ public class Order {
     public void setCoordinates(String coordinates) {
         this.coordinates = coordinates;
     }
+
+//    public List<Food> getItem() {
+//        return item;
+//    }
+//
+    public Object getItems(){
+        return this.items;
+    }
+
+    public void setItem(Object item) {
+        this.items = item;
+    }
+
+    public static class Item implements Parcelable{
+
+        public String food;
+        public String quantity;
+        public String price;
+
+        public Item(String food, String quantity, String price) {
+            this.food = food;
+            this.quantity = quantity;
+            this.price = price;
+        }
+
+        protected Item(Parcel in) {
+            food = in.readString();
+            quantity = in.readString();
+            price = in.readString();
+        }
+
+        public static final Creator<Item> CREATOR = new Creator<Item>() {
+            @Override
+            public Item createFromParcel(Parcel in) {
+                return new Item(in);
+            }
+
+            @Override
+            public Item[] newArray(int size) {
+                return new Item[size];
+            }
+        };
+
+        @Override
+        public int describeContents() {
+            return 0;
+        }
+
+        @Override
+        public void writeToParcel(Parcel dest, int flags) {
+            dest.writeString(food);
+            dest.writeString(quantity);
+            dest.writeString(price);
+        }
+    }
+//
+//    }
 }

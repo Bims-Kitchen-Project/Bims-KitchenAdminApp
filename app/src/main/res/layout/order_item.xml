@@ -16,6 +16,7 @@
         card_view:contentPadding="0dp">
 
         <LinearLayout
+            android:id="@+id/container"
             android:layout_width="fill_parent"
             android:layout_height="190dp"
             android:orientation="vertical"

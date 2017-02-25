@@ -46,16 +46,17 @@ public class MenuPage extends AppCompatActivity {
         //recyclerView.addItemDecoration(new DividerItemDecoration(getActivity(), LinearLayoutManager.VERTICAL));
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
-        recyclerView.addOnItemTouchListener(new RecyclerTouchListener(this, recyclerView, new ClickListener() {
-            @Override
-            public void onClick(View view, final int position) {
 
-            }
-            @Override
-            public void onLongClick(View view, int position) {
-
-            }
-        }));
+//        recyclerView.addOnItemTouchListener(new RecyclerTouchListener(this, recyclerView, new ClickListener() {
+//            @Override
+//            public void onClick(View view, final int position) {
+//
+//            }
+//            @Override
+//            public void onLongClick(View view, int position) {
+//
+//            }
+//        }));
     }
 
     Firebase ref;
