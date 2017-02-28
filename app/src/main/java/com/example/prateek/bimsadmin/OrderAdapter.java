@@ -37,9 +37,10 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.MyViewHolder
             super(view);
             name = (TextView) view.findViewById(R.id.Oname);
             number = (TextView) view.findViewById(R.id.Onumber);
-            email = (TextView)view.findViewById(R.id.Oemail);
-            amount  =(TextView)view.findViewById(R.id.Oamount);
-            address  =(TextView)view.findViewById(R.id.Oaddress);
+//            email = (TextView)view.findViewById(R.id.Oemail);
+//            amount  =(TextView)view.findViewById(R.id.Oamount);
+//            address  =(TextView)view.findViewById(R.id.Oaddress);
+
             con = (RelativeLayout) view.findViewById(R.id.container);
 
 
@@ -111,6 +112,8 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.MyViewHolder
 
             }
         });
+        Log.d("items " + items,"item");
+
 
     }
 

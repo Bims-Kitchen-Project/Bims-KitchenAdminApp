@@ -98,10 +98,11 @@ public class Order {
         public String quantity;
         public String price;
 
-        public Item(String food, String quantity, String price) {
+        public Item(String food, String price, String quantity) {
             this.food = food;
-            this.quantity = quantity;
+
             this.price = price;
+            this.quantity = quantity;
         }
 
         protected Item(Parcel in) {
