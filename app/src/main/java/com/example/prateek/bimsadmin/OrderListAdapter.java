@@ -18,7 +18,7 @@ import java.util.zip.Inflater;
 public class OrderListAdapter extends ArrayAdapter<Order.Item> {
 
     private ArrayList<Order.Item> items;
-    private TextView title;
+    private TextView title,title1,title2;
     private Context context;
 
     public OrderListAdapter(Context context, ArrayList<Order.Item> i) {
@@ -39,7 +39,11 @@ public class OrderListAdapter extends ArrayAdapter<Order.Item> {
         }
 
         title = (TextView) v.findViewById(R.id.title);
-        title.setText(items.get(position).food + "      " + items.get(position).price +  "     " + items.get(position).quantity);
+        title1 = (TextView) v.findViewById(R.id.title1);
+        title2 = (TextView) v.findViewById(R.id.title2);
+        title.setText(items.get(position).food);
+        title1.setText(items.get(position).price);
+        title2.setText(items.get(position).quantity);
 
         return v;
     }
