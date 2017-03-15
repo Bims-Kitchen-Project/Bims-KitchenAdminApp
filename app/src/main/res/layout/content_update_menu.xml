@@ -75,7 +75,7 @@
     <EditText
         android:layout_width="250dp"
         android:layout_height="40dp"
-        android:id="@+id/editTextprice"
+        android:id="@+id/editTextitem"
         android:gravity="center"
         android:textAlignment="center"
         android:layout_marginLeft="8dp"
@@ -110,7 +110,7 @@
     <EditText
         android:layout_width="250dp"
         android:layout_height="40dp"
-        android:id="@+id/editTextitem"
+        android:id="@+id/editTextprice"
         android:layout_below="@+id/spinnercat"
         android:background="#49B6BB"
         android:gravity="center"

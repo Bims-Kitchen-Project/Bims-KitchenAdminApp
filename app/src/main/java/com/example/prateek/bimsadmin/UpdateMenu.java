@@ -168,11 +168,11 @@ public class UpdateMenu extends AppCompatActivity {
 
             Firebase newRef = ref.child("Menu").push();
             newRef.setValue(data);
-            System.out.println(data.getCat());
-            System.out.println(data.getF());
-            System.out.println(data.getP());
-            System.out.println(data.getRating());
-            System.out.println(data.getUrl());
+//            System.out.println(data.getCat());
+//            System.out.println(data.getF());
+//            System.out.println(data.getP());
+//            System.out.println(data.getRating());
+//            System.out.println(data.getUrl());
             Toast.makeText(this, "Done", Toast.LENGTH_SHORT).show();
             flag = false;
             finish();
